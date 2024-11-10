@@ -1,0 +1,56 @@
+/* .on-off-bulb{
+    margin-top: 5%;
+    text-align: center;
+}
+body{
+    background-color: aliceblue;
+    
+}
+button{
+    padding: 10px 30px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    text-transform: uppercase;
+}
+h1{
+    text-transform: uppercase;
+}
+img{
+    width: 100%;
+    max-width: 300px;
+    border-radius: 8px;
+} */
+
+
+body{
+    background-color: antiquewhite;
+}
+
+.on-off-bulb{
+    text-align: center;
+    margin-top: 30px;
+}
+button{
+    padding: 10px 30px;
+    margin-left: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+img{
+    width: 100%;
+    max-width: 350px;
+    border-radius: 5px;
+}
+h2{
+    font-size: 30px;
+    color: white;
+    border: 1px solid white;
+    background-color:black;
+    border-radius: 5px;
+    text-align: center;
+    padding: 30px;
+}
